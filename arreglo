@@ -1,0 +1,7 @@
+cd 
+cd dylux-bot 
+cd database 
+rm setting-bot.json
+cd 
+cd notocar 
+cp setting-bot.json /data/data/com.termux/files/home/dylux-bot/database
