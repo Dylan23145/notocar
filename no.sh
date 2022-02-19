@@ -3,5 +3,5 @@
 
 pkg install sox -y 
 cd notocar 
-cd sonido 
-play sonido.mp3
+
+play -q matarv.mp3
